@@ -1,78 +1,75 @@
-Geraldo Coelho
+<div align="center">Geraldo Coelho
 
-Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação
+Desenvolvedor de Software em Formação
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou direcionando minha trajetória para o desenvolvimento de software, com foco no desenvolvimento web e na construção de aplicações práticas.
+Desenvolvimento Web · Engenharia de Software · Tecnologia
 
-Meu aprendizado é baseado no estudo contínuo, na resolução de problemas e no desenvolvimento de projetos que me permitam aplicar os conhecimentos adquiridos. Busco compreender não apenas como implementar funcionalidades, mas também como estruturar o código, organizar projetos e utilizar boas práticas durante o desenvolvimento.
+"GitHub" (https://github.com/zeni-node)
 
-Atualmente, meu objetivo é ampliar minha experiência prática por meio de projetos colaborativos, trabalhar com outros desenvolvedores e contribuir para soluções que representem desafios reais de desenvolvimento.
+</div>---
 
 Sobre mim
 
-- Cursando Análise e Desenvolvimento de Sistemas.
-- Estudando e praticando desenvolvimento web e programação.
-- Desenvolvendo projetos pessoais para consolidar meus conhecimentos.
-- Buscando oportunidades de colaboração em projetos de software.
-- Interessado em aprimorar minhas habilidades técnicas e aprender com a experiência de outros desenvolvedores.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória na área de desenvolvimento de software, com foco em aprimorar minhas habilidades técnicas por meio da prática e do desenvolvimento de projetos.
 
-Acredito que a evolução profissional acontece por meio da prática consistente, da colaboração e da disposição para aprender. Por isso, procuro oportunidades que me permitam sair do ambiente de estudo individual e participar de projetos em equipe, contribuindo com responsabilidade e evoluindo junto com outros profissionais.
+Tenho interesse em desenvolvimento web, criação de aplicações e construção de soluções que unam funcionalidade, organização e uma boa experiência para o usuário. Atualmente, venho explorando tecnologias como React, JavaScript, Python e Node.js, buscando ampliar meus conhecimentos tanto no desenvolvimento front-end quanto no back-end.
 
-Tecnologias e ferramentas
+Acredito que a evolução como desenvolvedor acontece não apenas escrevendo código, mas também aprendendo a resolver problemas, compreender diferentes abordagens e colaborar com outras pessoas.
 
-Desenvolvimento web
-
-- HTML e CSS
-- JavaScript
-- React
-- Node.js
-
-Programação
-
-- Python
-
-Ferramentas de desenvolvimento
-
-- Git
-- GitHub
-- Visual Studio Code
-
-Essas tecnologias fazem parte dos meus estudos e projetos práticos. Meu foco é aprofundar gradualmente meus conhecimentos, compreender melhor os fundamentos do desenvolvimento de software e aprender a aplicar cada ferramenta de acordo com as necessidades de um projeto.
-
-Projetos
-
-Task Manager
-
-Aplicação de gerenciamento de tarefas desenvolvida com React, com foco na construção de interfaces, gerenciamento de estado e persistência de dados no navegador.
-
-Tecnologias: React, JavaScript, Tailwind CSS e localStorage.
-
-"Consultar meus repositórios" (https://github.com/zeni-node?tab=repositories)
-
-Cardápio digital
-
-Projeto de desenvolvimento web voltado à apresentação de produtos e à interação com um carrinho de compras, permitindo praticar a criação de interfaces e a implementação de funcionalidades com JavaScript.
-
-Tecnologias: HTML, CSS e JavaScript.
-
-"Consultar meus repositórios" (https://github.com/zeni-node?tab=repositories)
-
-Os projetos apresentados representam parte do meu processo de aprendizado. Pretendo continuar aprimorando essas aplicações, desenvolvendo novas funcionalidades e explorando soluções que contribuam para minha evolução técnica.
-
-Estatísticas do GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=zeni-node&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-</p><p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeni-node&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas nos repositórios" />
-</p>Colaboração e contato
-
-Tenho interesse em participar de projetos colaborativos, conhecer outros desenvolvedores e contribuir para iniciativas que envolvam aprendizado, desenvolvimento de software e trabalho em equipe.
-
-Estou aberto a compartilhar conhecimentos, receber feedbacks, enfrentar novos desafios e colaborar na construção de soluções. Meu objetivo é desenvolver experiência prática, compreender melhor a dinâmica de projetos em equipe e evoluir de forma consistente como desenvolvedor.
-
-GitHub: "github.com/zeni-node" (https://github.com/zeni-node)
+Meu objetivo é participar de projetos reais, contribuir com equipes de desenvolvimento e continuar evoluindo profissionalmente por meio de experiências práticas e aprendizado contínuo.
 
 ---
 
-Em constante aprendizado, com foco na prática, na colaboração e na evolução como desenvolvedor.
+Projetos em destaque
+
+Gerenciamento de Tarefas
+
+Aplicação desenvolvida com React para organizar tarefas, com interface interativa e armazenamento local dos dados. Projeto voltado à prática de desenvolvimento de interfaces, gerenciamento de estado e persistência de informações no navegador.
+
+Tecnologias: React, JavaScript, Tailwind CSS e localStorage.
+
+"Ver repositório" (https://github.com/zeni-node/task-manager)
+
+Projetos de Desenvolvimento Web
+
+Projetos práticos desenvolvidos para explorar a criação de interfaces, a organização de páginas e a implementação de funcionalidades utilizando tecnologias web.
+
+Tecnologias: HTML, CSS e JavaScript.
+
+"Explorar meus repositórios" (https://github.com/zeni-node?tab=repositories)
+
+---
+
+Tecnologias e ferramentas
+
+Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript e React"/>
+</p>Back-end e programação
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs" alt="Python e Node.js"/>
+</p>Ferramentas de desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e Visual Studio Code"/>
+</p>---
+
+Atividade no GitHub
+
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=zeni-node&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/><br/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeni-node&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas"/></div>---
+
+Objetivos profissionais
+
+- Aprofundar meus conhecimentos em desenvolvimento front-end e back-end.
+- Desenvolver projetos que proporcionem experiência prática e evolução técnica.
+- Aprimorar minhas habilidades em Git, GitHub, organização de código e boas práticas de desenvolvimento.
+- Colaborar com equipes, compartilhar conhecimentos e aprender com outros desenvolvedores.
+- Evoluir continuamente como profissional da área de tecnologia.
+
+---
+
+<div align="center">Em constante aprendizado, transformando conhecimento em projetos.
+
+</div>
