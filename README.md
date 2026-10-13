@@ -1,98 +1,78 @@
-👨‍💻 Olá! Eu sou o Zeni
+Geraldo Coelho
 
-🚀 Estudante de ADS | Desenvolvedor em evolução
+Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou construindo minha jornada no desenvolvimento de software por meio de estudos, projetos práticos e colaboração com outros desenvolvedores.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou direcionando minha trajetória para o desenvolvimento de software, com foco no desenvolvimento web e na construção de aplicações práticas.
 
-Gosto de transformar ideias em projetos, aprender novas tecnologias e evoluir um pouco a cada linha de código. Atualmente, meu foco é desenvolver minhas habilidades em desenvolvimento web e programação, construir um portfólio consistente e ganhar experiência trabalhando em equipe.
+Meu aprendizado é baseado no estudo contínuo, na resolução de problemas e no desenvolvimento de projetos que me permitam aplicar os conhecimentos adquiridos. Busco compreender não apenas como implementar funcionalidades, mas também como estruturar o código, organizar projetos e utilizar boas práticas durante o desenvolvimento.
 
-🎯 Meu objetivo: participar de projetos colaborativos, trocar conhecimentos com outros desenvolvedores e contribuir para a construção de soluções reais.
+Atualmente, meu objetivo é ampliar minha experiência prática por meio de projetos colaborativos, trabalhar com outros desenvolvedores e contribuir para soluções que representem desafios reais de desenvolvimento.
 
----
+Sobre mim
 
-🧑‍💻 Sobre mim
+- Cursando Análise e Desenvolvimento de Sistemas.
+- Estudando e praticando desenvolvimento web e programação.
+- Desenvolvendo projetos pessoais para consolidar meus conhecimentos.
+- Buscando oportunidades de colaboração em projetos de software.
+- Interessado em aprimorar minhas habilidades técnicas e aprender com a experiência de outros desenvolvedores.
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS).
-- 🌱 Estudando e praticando desenvolvimento web e programação.
-- 🛠️ Desenvolvendo projetos pessoais para colocar meus conhecimentos em prática.
-- 🤝 Buscando oportunidades para colaborar em projetos open source e equipes de desenvolvimento.
-- 📚 Sempre disposto a aprender novas tecnologias e melhorar minhas habilidades.
-- 💡 Acredito que a melhor forma de evoluir é aprender, praticar e construir junto com outras pessoas.
+Acredito que a evolução profissional acontece por meio da prática consistente, da colaboração e da disposição para aprender. Por isso, procuro oportunidades que me permitam sair do ambiente de estudo individual e participar de projetos em equipe, contribuindo com responsabilidade e evoluindo junto com outros profissionais.
 
----
+Tecnologias e ferramentas
 
-⚡ Tecnologias e ferramentas
+Desenvolvimento web
 
-💻 Desenvolvimento
+- HTML e CSS
+- JavaScript
+- React
+- Node.js
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python" alt="HTML, CSS, JavaScript, React, Node.js e Python" />
-</p>🔧 Ferramentas
+Programação
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e Visual Studio Code" />
-</p>Tecnologias com as quais estudo e pratico:
+- Python
 
-- Front-end: HTML, CSS, JavaScript e React.
-- Back-end e programação: Python e Node.js, em aprendizado e prática.
-- Versionamento: Git e GitHub para organizar projetos e acompanhar alterações.
-- Ambiente de desenvolvimento: Visual Studio Code.
+Ferramentas de desenvolvimento
 
----
+- Git
+- GitHub
+- Visual Studio Code
 
-🚀 Projetos em destaque
+Essas tecnologias fazem parte dos meus estudos e projetos práticos. Meu foco é aprofundar gradualmente meus conhecimentos, compreender melhor os fundamentos do desenvolvimento de software e aprender a aplicar cada ferramenta de acordo com as necessidades de um projeto.
 
-Aqui estão alguns tipos de projetos que fazem parte da minha jornada de aprendizado.
+Projetos
 
-📋 Task Manager — Gerenciador de tarefas
+Task Manager
 
-Aplicação desenvolvida com React para praticar a criação de interfaces, a organização de componentes e a implementação de funcionalidades.
+Aplicação de gerenciamento de tarefas desenvolvida com React, com foco na construção de interfaces, gerenciamento de estado e persistência de dados no navegador.
 
-- ⚛️ React e JavaScript.
-- 🎨 Estilização com Tailwind CSS.
-- 💾 Persistência de dados com localStorage.
-- 🧩 Prática de lógica de programação e gerenciamento de estado.
+Tecnologias: React, JavaScript, Tailwind CSS e localStorage.
 
-🔗 "Explorar meus repositórios no GitHub" (https://github.com/zeni-node?tab=repositories)
+"Consultar meus repositórios" (https://github.com/zeni-node?tab=repositories)
 
-🍔 Cardápio digital
+Cardápio digital
 
-Projeto de prática em desenvolvimento web com foco na criação de uma interface para exibição de produtos e interação com um carrinho.
+Projeto de desenvolvimento web voltado à apresentação de produtos e à interação com um carrinho de compras, permitindo praticar a criação de interfaces e a implementação de funcionalidades com JavaScript.
 
-- 🌐 HTML e CSS.
-- 🛒 Prática de interações com JavaScript.
-- 📱 Desenvolvimento de interfaces para projetos web.
+Tecnologias: HTML, CSS e JavaScript.
 
-🔗 "Ver meus repositórios" (https://github.com/zeni-node?tab=repositories)
+"Consultar meus repositórios" (https://github.com/zeni-node?tab=repositories)
 
-«Estes projetos fazem parte da minha evolução como desenvolvedor. Pretendo continuar aprimorando minhas aplicações, explorando novas tecnologias e documentando melhor cada projeto.»
+Os projetos apresentados representam parte do meu processo de aprendizado. Pretendo continuar aprimorando essas aplicações, desenvolvendo novas funcionalidades e explorando soluções que contribuam para minha evolução técnica.
 
----
-
-📊 Estatísticas do GitHub
+Estatísticas do GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=zeni-node&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeni-node&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
 </p><p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeni-node&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
-</p><p>
-  <img src="https://streak-stats.demolab.com?user=zeni-node&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
-</p>---
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeni-node&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas nos repositórios" />
+</p>Colaboração e contato
 
-🤝 Vamos construir algo juntos?
+Tenho interesse em participar de projetos colaborativos, conhecer outros desenvolvedores e contribuir para iniciativas que envolvam aprendizado, desenvolvimento de software e trabalho em equipe.
 
-Estou aberto a conhecer desenvolvedores, participar de projetos colaborativos, trocar experiências e aprender com pessoas que também gostam de tecnologia.
+Estou aberto a compartilhar conhecimentos, receber feedbacks, enfrentar novos desafios e colaborar na construção de soluções. Meu objetivo é desenvolver experiência prática, compreender melhor a dinâmica de projetos em equipe e evoluir de forma consistente como desenvolvedor.
 
-Não acredito que seja necessário saber tudo para começar a contribuir. Acredito na importância de ter iniciativa, estudar, compartilhar conhecimento e crescer junto com a equipe.
+GitHub: "github.com/zeni-node" (https://github.com/zeni-node)
 
-Se você também está desenvolvendo algum projeto e procura alguém disposto a aprender e colaborar, vamos nos conectar!
+---
 
-<p>
-  <a href="https://github.com/zeni-node">
-    <img src="https://img.shields.io/badge/GitHub-zeni--node-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub" />
-  </a>
-</p>---
-
-<p align="center">
-  💻 <strong>Aprendendo hoje, construindo o amanhã.</strong>
-</p>
+Em constante aprendizado, com foco na prática, na colaboração e na evolução como desenvolvedor.
