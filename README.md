@@ -61,7 +61,7 @@ Contato
   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/" >
+<a href="https://www.linkedin.com/in/geraldo-coelho-732568359?utm_source=share_via&utm_content=profile&utm_medium=member_android" >
   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
