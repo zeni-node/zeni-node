@@ -59,7 +59,7 @@ Objetivos Profissionais
 - Participar de projetos colaborativos e contribuir com equipes de desenvolvimento.
 - Adquirir experiência prática e evoluir continuamente na área de tecnologia.
 
-
+---
 
 
 ## Contato
