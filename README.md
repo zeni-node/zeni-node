@@ -67,9 +67,16 @@ Contato
   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/geraldo-coelho-732568359/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    width="38"
+    height="38"
+    alt="LinkedIn"
+  />
 </a>
+
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:geraldocoelho929@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="E-mail"/>
