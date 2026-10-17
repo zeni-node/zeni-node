@@ -11,7 +11,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvi
 
 ---
 
-## Estatísticas do GitHub
+## GitHub Statistics
 
 <div align="center">
 
@@ -57,7 +57,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvi
 
 ---
 
-## Tecnologias e Ferramentas
+## Technologies and Tools
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvi
 
 ---
 
-## Objetivos Profissionais
+## Professional Objectives
 
 - Aprofundar os conhecimentos em desenvolvimento front-end e back-end.
 - Aprimorar a qualidade, a organização e a manutenção do código.
@@ -85,7 +85,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvi
 
 ---
 
-## Contato
+## Contact
 
 <div align="center">
 
