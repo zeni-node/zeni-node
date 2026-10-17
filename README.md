@@ -18,7 +18,9 @@ Busco evoluir tanto no front-end quanto no back-end, além de participar de proj
 
 Estatísticas do GitHub
 
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeni-node&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&include_all_commits=true&locale=pt-br" alt="Estatísticas gerais do GitHub"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeni-node&layout=donut&theme=github_dark&hide_border=true&langs_count=8&locale=pt-br" alt="Distribuição das linguagens"/></div><div align="center"><img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeni-node&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/></div>---
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeni-node&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&include_all_commits=true&locale=pt-br" alt="Estatísticas gerais do GitHub"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeni-node&layout=donut&theme=github_dark&hide_border=true&langs_count=8&locale=pt-br" alt="Distribuição das linguagens"/><br/><br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeni-node&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/></div>---
 
 Atividade de Contribuição
 
@@ -26,7 +28,10 @@ Atividade de Contribuição
 
 Histórico de Contribuições
 
-<div align="center"><img width="100%" src="https://raw.githubusercontent.com/zeni-node/zeni-node/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições do GitHub"/></div>---
+<div align="center"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeni-node/zeni-node/output/github-contribution-grid-snake-dark.svg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zeni-node/zeni-node/output/github-contribution-grid-snake.svg" alt="Animação das contribuições do GitHub"/>
+</picture></div>---
 
 Tecnologias e Ferramentas
 
@@ -42,7 +47,7 @@ Projetos em Destaque
 
 Projeto| Descrição| Tecnologias
 "Task Manager" (https://github.com/zeni-node/task-manager)| Aplicação para gerenciamento e organização de tarefas.| React, JavaScript, Tailwind CSS
-"Meus repositórios" (https://github.com/zeni-node?tab=repositories)| Outros projetos, experimentos e estudos de desenvolvimento.| Diversas tecnologias
+"Meus repositórios" (https://github.com/zeni-node?tab=repositories)| Projetos, experimentos e estudos de desenvolvimento.| Diversas tecnologias
 
 ---
 
@@ -52,6 +57,7 @@ Objetivos Profissionais
 - Aprimorar a qualidade, a organização e a manutenção do código.
 - Desenvolver aplicações funcionais com foco na experiência do usuário.
 - Participar de projetos colaborativos e contribuir com equipes de desenvolvimento.
+- Adquirir experiência prática e evoluir continuamente na área de tecnologia.
 
 ---
 
@@ -61,7 +67,7 @@ Contato
   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/geraldo-coelho-732568359?utm_source=share_via&utm_content=profile&utm_medium=member_android" >
+<a href="https://www.linkedin.com/in/geraldo-coelho-732568359/">
   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
