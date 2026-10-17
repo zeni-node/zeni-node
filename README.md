@@ -2,74 +2,77 @@
 
 Desenvolvedor de Software em Formação
 
-Desenvolvimento Web · Engenharia de Software · Tecnologia
+Estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvimento web, criação de aplicações e evolução contínua na área de tecnologia.
 
-"GitHub" (https://github.com/zeni-node)
+"GitHub" (https://github.com/zeni-node) · "Repositórios" (https://github.com/zeni-node?tab=repositories)
 
 </div>---
 
-Sobre mim
+Perfil de Desenvolvimento
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória na área de desenvolvimento de software, com foco em aprimorar minhas habilidades técnicas por meio da prática e do desenvolvimento de projetos.
+Estou construindo minha trajetória no desenvolvimento de software por meio de estudos e projetos práticos. Tenho interesse em desenvolver aplicações, aprimorar minhas habilidades de programação e aprender boas práticas de desenvolvimento.
 
-Tenho interesse em desenvolvimento web, criação de aplicações e construção de soluções que unam funcionalidade, organização e uma boa experiência para o usuário. Atualmente, venho explorando tecnologias como React, JavaScript, Python e Node.js, buscando ampliar meus conhecimentos tanto no desenvolvimento front-end quanto no back-end.
-
-Acredito que a evolução como desenvolvedor acontece não apenas escrevendo código, mas também aprendendo a resolver problemas, compreender diferentes abordagens e colaborar com outras pessoas.
-
-Meu objetivo é participar de projetos reais, contribuir com equipes de desenvolvimento e continuar evoluindo profissionalmente por meio de experiências práticas e aprendizado contínuo.
+Busco evoluir tanto no front-end quanto no back-end, além de participar de projetos colaborativos que contribuam para minha experiência profissional.
 
 ---
 
-Projetos em destaque
+Estatísticas do GitHub
 
-Gerenciamento de Tarefas
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeni-node&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&include_all_commits=true&locale=pt-br" alt="Estatísticas gerais do GitHub"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeni-node&layout=donut&theme=github_dark&hide_border=true&langs_count=8&locale=pt-br" alt="Distribuição das linguagens"/></div><div align="center"><img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeni-node&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/></div>---
 
-Aplicação desenvolvida com React para organizar tarefas, com interface interativa e armazenamento local dos dados. Projeto voltado à prática de desenvolvimento de interfaces, gerenciamento de estado e persistência de informações no navegador.
+Atividade de Contribuição
 
-Tecnologias: React, JavaScript, Tailwind CSS e localStorage.
+<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zeni-node&theme=github-compact&hide_border=true&area=true" alt="Gráfico de atividade do GitHub"/></div>---
 
-"Ver repositório" (https://github.com/zeni-node/task-manager)
+Histórico de Contribuições
 
-Projetos de Desenvolvimento Web
+<div align="center"><img width="100%" src="https://raw.githubusercontent.com/zeni-node/zeni-node/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições do GitHub"/></div>---
 
-Projetos práticos desenvolvidos para explorar a criação de interfaces, a organização de páginas e a implementação de funcionalidades utilizando tecnologias web.
+Tecnologias e Ferramentas
 
-Tecnologias: HTML, CSS e JavaScript.
+<div align="center">Desenvolvimento Web
 
-"Explorar meus repositórios" (https://github.com/zeni-node?tab=repositories)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" alt="HTML, CSS, JavaScript, React e Node.js"/><br/><br/>
 
----
+Programação e Ferramentas
 
-Tecnologias e ferramentas
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Python, Git, GitHub e Visual Studio Code"/></div>---
 
-Front-end
+Projetos em Destaque
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript e React"/>
-</p>Back-end e programação
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs" alt="Python e Node.js"/>
-</p>Ferramentas de desenvolvimento
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e Visual Studio Code"/>
-</p>---
-
-Atividade no GitHub
-
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=zeni-node&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/><br/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeni-node&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas"/></div>---
-
-Objetivos profissionais
-
-- Aprofundar meus conhecimentos em desenvolvimento front-end e back-end.
-- Desenvolver projetos que proporcionem experiência prática e evolução técnica.
-- Aprimorar minhas habilidades em Git, GitHub, organização de código e boas práticas de desenvolvimento.
-- Colaborar com equipes, compartilhar conhecimentos e aprender com outros desenvolvedores.
-- Evoluir continuamente como profissional da área de tecnologia.
+Projeto| Descrição| Tecnologias
+"Task Manager" (https://github.com/zeni-node/task-manager)| Aplicação para gerenciamento e organização de tarefas.| React, JavaScript, Tailwind CSS
+"Meus repositórios" (https://github.com/zeni-node?tab=repositories)| Outros projetos, experimentos e estudos de desenvolvimento.| Diversas tecnologias
 
 ---
 
-<div align="center">Em constante aprendizado, transformando conhecimento em projetos.
+Objetivos Profissionais
+
+- Aprofundar conhecimentos em desenvolvimento front-end e back-end.
+- Aprimorar a qualidade, a organização e a manutenção do código.
+- Desenvolver aplicações funcionais com foco na experiência do usuário.
+- Participar de projetos colaborativos e contribuir com equipes de desenvolvimento.
+
+---
+
+Contato
+
+<div align="center"><a href="https://github.com/zeni-node">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/" >
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:SEU_EMAIL_AQUI">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="E-mail"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/SEU_NUMERO_AQUI">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="38" alt="WhatsApp"/>
+</a><br/><br/>
+
+Desenvolvimento contínuo, aprendizado prático e colaboração.
 
 </div>
