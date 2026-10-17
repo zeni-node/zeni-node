@@ -81,6 +81,7 @@ Contato
 <a href="mailto:geraldocoelho929@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="E-mail"/>
 </a>
+</div>
 &nbsp;&nbsp;&nbsp;<br/><br/>
 
 Desenvolvimento contínuo, aprendizado prático e colaboração.
