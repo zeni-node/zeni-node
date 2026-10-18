@@ -16,7 +16,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvi
 <div align="center">
 
 <img
-  width="60%"
+  width="90%"
   src="https://github-readme-stats.vercel.app/api?username=zeni-node&show_icons=true&rank_icon=github&theme=github_dark&include_all_commits=true&locale=pt-br&border_radius=15&border_color=30363d"
   alt="Estatísticas gerais do GitHub"
 />
@@ -24,7 +24,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvi
 <br/><br/>
 
 <img
-  width="60%"
+  width="90%"
   src="https://github-readme-streak-stats.herokuapp.com/?user=zeni-node&theme=github-dark-blue&locale=pt_BR&border_radius=15&border=30363d"
   alt="Sequência de contribuições"
 />
